@@ -1,6 +1,7 @@
-# BreezeX Cursor
+# BreezeX Cursor (Mono)
 
 Extended KDE cursor, Highly inspired on **KDE Breeze** for `Windows` and `Linux` with _HiDPi Support_ .
+Monocrome version
 
 #### Extended!?
 
@@ -21,10 +22,6 @@ BreezeX Cursor is an independent project that supports more XCursor sizes and al
     `build.toml` -> `configs/win_lg.build.toml`, `configs/win_rg.build.toml`, `configs/win_xl.build.toml`, `configs/x.build.toml`.
 
 ---
-
-![Breeze Black](https://github.com/ful1e5/BreezeX_Cursor/assets/24286590/ebeb3bc7-3857-4b16-9894-8897507b1855)
-![Breeze Dark](https://github.com/ful1e5/BreezeX_Cursor/assets/24286590/e6e7d402-8ef4-4f4b-8f4c-a7f634461d52)
-![Breeze Light](https://github.com/ful1e5/BreezeX_Cursor/assets/24286590/d2e4c969-a358-42e1-b6bb-ddb0e9c94d30)
 
 ## Cursor Sizes
 
@@ -57,17 +54,7 @@ BreezeX Cursor is an independent project that supports more XCursor sizes and al
 
 ## Colors
 
-### BreezeX Dark
-
--   Outline Color - `#FFFFFF` (White)
--   Base Color - `#4D4D4D` (Breeze)
-
-### BreezeX Light
-
--   Outline Color - `#4D4D4D` (Breeze)
--   Base Color - `#FFFFFF` (White)
-
-### BreezeX Black
+### BreezeX Mono
 
 -   Outline Color - `#FFFFFF` (White)
 -   Base Color - `#000000` (Black)

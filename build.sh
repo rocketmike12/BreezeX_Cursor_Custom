@@ -1,7 +1,7 @@
 #!/bin/bash
 # A script for preparing binaries of BreezeX Cursors, created by Abdulkaiz Khatri.
 
-version="v2.0.1"
+kersion="v2.0.1"
 
 error() (
   set -o pipefail
@@ -30,9 +30,7 @@ if ! type -p ctgen >/dev/null; then
 fi
 
 declare -A names
-names["BreezeX-Dark"]=$(with_version "Extended KDE Dark")
-names["BreezeX-Black"]=$(with_version "Extended KDE Black")
-names["BreezeX-Light"]=$(with_version "Extended KDE Light")
+names["BreezeX-Mono"]=$(with_version "Extended KDE Mono")
 
 # Cleanup old builds
 rm -rf themes bin
