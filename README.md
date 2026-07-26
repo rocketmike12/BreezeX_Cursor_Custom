@@ -1,12 +1,8 @@
 # BreezeX Cursor (Custom)
 
 Monochrome and Single Accent versions of the [BreezeX Cursor](https://github.com/ful1e5/BreezeX_Cursor) by ful1e5
-
----
-
+<br>
 The modified svg files are available at [svg-mono](https://github.com/rocketmike12/BreezeX_Cursor_Custom/tree/main/svg-mono) and [svg-accent](https://github.com/rocketmike12/BreezeX_Cursor_Custom/tree/main/svg-accent) respectively
-
----
 
 ## Building
 You can build these themes with your own colors
