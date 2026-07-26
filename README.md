@@ -4,6 +4,16 @@ Monochrome and Single Accent versions of the [BreezeX Cursor](https://github.com
 <br>
 The modified svg files are available at [svg-mono](https://github.com/rocketmike12/BreezeX_Cursor_Custom/tree/main/svg-mono) and [svg-accent](https://github.com/rocketmike12/BreezeX_Cursor_Custom/tree/main/svg-accent) respectively
 
+## Installation
+You can download the latest releases from [Release Page](https://github.com/rocketmike12/BreezeX_Cursor_Custom/releases).
+
+#### Installing on Linux:
+```
+tar -xvf BreezeX-Mono.tar.gz                # extract `BreezeX-Mono.tar.gz`
+mv BreezeX-* ~/.icons/                      # Install to local users
+sudo mv BreezeX-* /usr/share/icons/         # Install to all users
+```
+
 ## Building
 You can build these themes with your own colors
 
