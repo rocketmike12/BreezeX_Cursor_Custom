@@ -7,6 +7,29 @@ The modified svg files are available at [svg-mono](https://github.com/rocketmike
 ## Building
 You can build these themes with your own colors
 
+### Prerequisites
+
+-   Python version 3.7 or higher
+-   [clickgen](https://github.com/ful1e5/clickgen)>=2.2.5 (`pip install clickgen`)
+-   [yarn](https://github.com/yarnpkg/yarn)
+
+### Quick start
+
+1. Install [build prerequisites](#prerequisites) on your system
+2. `git clone https://github.com/rocketmike12/BreezeX_Cursor_Custom`
+3. `cd BreezeX_Cursor`
+4. `yarn install`
+5. `yarn generate`
+
+### Getting Started
+
+Once you have the [build prerequisites](#prerequisites) installed, You can personalize colors,
+customize sizes, change target platforms, and more. This process involves using external tools,
+as this repository only contains SVG files and configuration for these tools:
+
+-   [cbmp](https://github.com/ful1e5/cbmp): Used for customizing colors and generating PNG files.
+-   [ctgen](https://github.com/ful1e5/clickgen): Used for customizing sizes and building XCursor and Windows Cursors.
+
 ### For Monochrome:
 ```shell
 ./mono.sh <background color> <foreground color>
